@@ -3,12 +3,12 @@
 <p>
   <img src="./pompom.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>Soy una estudiante que está aprendiendo la carrera de computación.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo REACT
-    <br>🔹 Programación en python con raspberry pi pico W
-    <br>🔹 Me interesa el desarrollo de aplicaciones web.
-    <br>🔹 https://jossuefuentes.space/
+    <br>🔹 Actualmente estoy aprendiendo linux.
+    <br>🔹 Estoy aprendiendo a programar.
+    <br>🔹 Me interesa conocer mi carrera a fondo y poder terminarla.
+    <br>🔹 
     </samp>
    <br>
   <br>
